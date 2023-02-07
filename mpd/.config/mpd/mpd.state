@@ -1,64 +1,30 @@
-sw_volume: 88
+sw_volume: 77
 audio_device_state:1:PipeWire Sound Server
-audio_device_state:1:Visualizer
+audio_device_state:1:my_fifo
 audio_device_state:1:lossless
 state: pause
-current: 13
-time: 186.919000
+current: 0
+time: 25.998000
 random: 0
 repeat: 0
 single: 0
 consume: 0
-crossfade: 5
+crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:American Football FLAC/1998 - American Football EP/01 - American Football - The One With The Tambourine.flac
-1:American Football FLAC/1998 - American Football EP/02 - American Football - Letters And Packages.flac
-2:American Football FLAC/1998 - American Football EP/03 - American Football - Five Silent Miles.flac
-3:American Football FLAC/1999 - American Football/01 - Never Meant.flac
-4:American Football FLAC/1999 - American Football/02 - The Summer Ends.flac
-5:American Football FLAC/1999 - American Football/03 - Honestly .flac
-6:American Football FLAC/1999 - American Football/04 - For Sure..flac
-7:American Football FLAC/1999 - American Football/05 - You Know I Should Be Leaving Soon.flac
-8:American Football FLAC/1999 - American Football/06 - But The Regrets Are Killing Me.flac
-9:American Football FLAC/1999 - American Football/07 - I_ll See You When We_re Both Not So Emotional.flac
-10:American Football FLAC/1999 - American Football/08 - Stay Home.flac
-11:American Football FLAC/1999 - American Football/09 - The One With The Wurlitzer.flac
-12:American Football FLAC/2014 -  American Football (Deluxe Edition)/American Football - American Football (Deluxe Edition) - 01 Never Meant.flac
-13:American Football FLAC/2014 -  American Football (Deluxe Edition)/American Football - American Football (Deluxe Edition) - 02 The Summer Ends.flac
-14:American Football FLAC/2014 -  American Football (Deluxe Edition)/American Football - American Football (Deluxe Edition) - 03 Honestly-.flac
-15:American Football FLAC/2014 -  American Football (Deluxe Edition)/American Football - American Football (Deluxe Edition) - 04 For Sure.flac
-16:American Football FLAC/2014 -  American Football (Deluxe Edition)/American Football - American Football (Deluxe Edition) - 05 You Know I Should Be Leaving Soon.flac
-17:American Football FLAC/2014 -  American Football (Deluxe Edition)/American Football - American Football (Deluxe Edition) - 06 But The Regrets Are Killing Me.flac
-18:American Football FLAC/2014 -  American Football (Deluxe Edition)/American Football - American Football (Deluxe Edition) - 07 I_ll See You When We_re Both Not So Emotional.flac
-19:American Football FLAC/2014 -  American Football (Deluxe Edition)/American Football - American Football (Deluxe Edition) - 08 Stay Home.flac
-20:American Football FLAC/2014 -  American Football (Deluxe Edition)/American Football - American Football (Deluxe Edition) - 09 The One With The Wurlitzer.flac
-21:American Football FLAC/2014 -  American Football (Deluxe Edition)/American Football - American Football (Deluxe Edition) - 10 Intro -Live at the Blind Pig, Champaign, IL, 1997-.flac
-22:American Football FLAC/2014 -  American Football (Deluxe Edition)/American Football - American Football (Deluxe Edition) - 11 Five Silent Miles -Live at the Blind Pig, Champaign, IL, 1997-.flac
-23:American Football FLAC/2014 -  American Football (Deluxe Edition)/American Football - American Football (Deluxe Edition) - 12 Untitled #1 (The One With the Trumpet) -Boombox Practice Session, 1998-.flac
-24:American Football FLAC/2014 -  American Football (Deluxe Edition)/American Football - American Football (Deluxe Edition) - 13 Untitled #2 -Boombox Practice Session, 1998-.flac
-25:American Football FLAC/2014 -  American Football (Deluxe Edition)/American Football - American Football (Deluxe Edition) - 14 Stay Home -Boombox Practice Session, 1998-.flac
-26:American Football FLAC/2014 -  American Football (Deluxe Edition)/American Football - American Football (Deluxe Edition) - 15 Untitled #3 -Boombox Practice Session, 1999-.flac
-27:American Football FLAC/2014 -  American Football (Deluxe Edition)/American Football - American Football (Deluxe Edition) - 16 Never Meant -4-Track Album Prep, 1999-.flac
-28:American Football FLAC/2014 -  American Football (Deluxe Edition)/American Football - American Football (Deluxe Edition) - 17 But the Regrets Are Killing Me -4-Track Album Prep, 1999-.flac
-29:American Football FLAC/2014 -  American Football (Deluxe Edition)/American Football - American Football (Deluxe Edition) - 18 I_ll See You When We_re Both Not So Emotional -4-Track Album Prep, 1999-.flac
-30:American Football FLAC/2014 -  American Football (Deluxe Edition)/American Football - American Football (Deluxe Edition) - 19 The 7_s -Live at the Blind Pig, Champaign, IL, 1997-.flac
-31:American Football FLAC/2016 - American Football (LP2)/01 Where Are We Now.flac
-32:American Football FLAC/2016 - American Football (LP2)/02 My Instincts Are the Enemy.flac
-33:American Football FLAC/2016 - American Football (LP2)/03 Home Is Where the Haunt Is.flac
-34:American Football FLAC/2016 - American Football (LP2)/04 Born to Lose.flac
-35:American Football FLAC/2016 - American Football (LP2)/05 I_ve Been So Lost for So Long.flac
-36:American Football FLAC/2016 - American Football (LP2)/06 Give Me the Gun.flac
-37:American Football FLAC/2016 - American Football (LP2)/07 I Need a Drink (or Two or Three).flac
-38:American Football FLAC/2016 - American Football (LP2)/08 Desire Gets in the Way.flac
-39:American Football FLAC/2016 - American Football (LP2)/09 Everyone Is Dressed Up.flac
-40:American Football FLAC/2019 - American Football (LP3)/01. Silhouettes.flac
-41:American Football FLAC/2019 - American Football (LP3)/02. Every Wave to Ever Rise (feat. Elizabeth Powell).flac
-42:American Football FLAC/2019 - American Football (LP3)/03. Uncomfortably Numb (feat. Hayley Williams).flac
-43:American Football FLAC/2019 - American Football (LP3)/04. Heir Apparent.flac
-44:American Football FLAC/2019 - American Football (LP3)/05. Doom in Full Bloom.flac
-45:American Football FLAC/2019 - American Football (LP3)/06. I Can_t Feel You (feat. Rachel Goswell).flac
-46:American Football FLAC/2019 - American Football (LP3)/07. Mine to Miss.flac
-47:American Football FLAC/2019 - American Football (LP3)/08. Life Support.flac
+0:[2022.12.28] TVアニメ「ぼっち・ざ・ろっく！」結束バンド フルアルバム「結束バンド」[FLAC 48kHz／24bit]/01. 青春コンプレックス.flac
+1:[2022.12.28] TVアニメ「ぼっち・ざ・ろっく！」結束バンド フルアルバム「結束バンド」[FLAC 48kHz／24bit]/02. ひとりぼっち東京.flac
+2:[2022.12.28] TVアニメ「ぼっち・ざ・ろっく！」結束バンド フルアルバム「結束バンド」[FLAC 48kHz／24bit]/03. Distortion!!.flac
+3:[2022.12.28] TVアニメ「ぼっち・ざ・ろっく！」結束バンド フルアルバム「結束バンド」[FLAC 48kHz／24bit]/04. ひみつ基地.flac
+4:[2022.12.28] TVアニメ「ぼっち・ざ・ろっく！」結束バンド フルアルバム「結束バンド」[FLAC 48kHz／24bit]/05. ギターと孤独と蒼い惑星.flac
+5:[2022.12.28] TVアニメ「ぼっち・ざ・ろっく！」結束バンド フルアルバム「結束バンド」[FLAC 48kHz／24bit]/06. ラブソングが歌えない.flac
+6:[2022.12.28] TVアニメ「ぼっち・ざ・ろっく！」結束バンド フルアルバム「結束バンド」[FLAC 48kHz／24bit]/07. あのバンド.flac
+7:[2022.12.28] TVアニメ「ぼっち・ざ・ろっく！」結束バンド フルアルバム「結束バンド」[FLAC 48kHz／24bit]/08. カラカラ.flac
+8:[2022.12.28] TVアニメ「ぼっち・ざ・ろっく！」結束バンド フルアルバム「結束バンド」[FLAC 48kHz／24bit]/09. 小さな海.flac
+9:[2022.12.28] TVアニメ「ぼっち・ざ・ろっく！」結束バンド フルアルバム「結束バンド」[FLAC 48kHz／24bit]/10. なにが悪い.flac
+10:[2022.12.28] TVアニメ「ぼっち・ざ・ろっく！」結束バンド フルアルバム「結束バンド」[FLAC 48kHz／24bit]/11. 忘れてやらない.flac
+11:[2022.12.28] TVアニメ「ぼっち・ざ・ろっく！」結束バンド フルアルバム「結束バンド」[FLAC 48kHz／24bit]/12. 星座になれたら.flac
+12:[2022.12.28] TVアニメ「ぼっち・ざ・ろっく！」結束バンド フルアルバム「結束バンド」[FLAC 48kHz／24bit]/13. フラッシュバッカー.flac
+13:[2022.12.28] TVアニメ「ぼっち・ざ・ろっく！」結束バンド フルアルバム「結束バンド」[FLAC 48kHz／24bit]/14. 転がる岩、君に朝が降る.flac
 playlist_end
